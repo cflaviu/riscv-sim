@@ -13,3 +13,5 @@
 *.exe
 *.ilk
 *.log
+*.suo
+*.sdf
